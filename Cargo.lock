@@ -137,6 +137,7 @@ dependencies = [
  "futures",
  "openssl",
  "serde",
+ "serde_json",
 ]
 
 [[package]]
